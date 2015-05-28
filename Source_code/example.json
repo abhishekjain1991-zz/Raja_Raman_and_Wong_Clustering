@@ -1,0 +1,101 @@
+{
+"name":"data",
+"children":[
+{
+"name":"RAJA RAMAN AND WONG CLUSTERING",
+"children":[
+{
+"name":"NODES",
+"children":[
+{"name": "j", "size": 4614},
+{"name": "g", "size": 4614},
+{"name": "e", "size": 4614},
+{"name": "d", "size": 4614},
+{"name": "b", "size": 4614},
+{"name": "f", "size": 4614},
+{"name": "c", "size": 4614},
+{"name": "i", "size": 4614},
+{"name": "a", "size": 4614},
+{"name": "k", "size": 4614},
+{"name": "l", "size": 4614},
+{"name": "h", "size": 4614}
+]
+},
+{
+"name":"LABELS",
+"children":[
+{"name": " Node : g Label: 3", "size": 4614},
+{"name": " Node : j Label: 7", "size": 4614},
+{"name": " Node : d Label: 2", "size": 4614},
+{"name": " Node : e Label: 2", "size": 4614},
+{"name": " Node : c Label: 1", "size": 4614},
+{"name": " Node : f Label: 2", "size": 4614},
+{"name": " Node : l Label: 8", "size": 4614},
+{"name": " Node : k Label: 8", "size": 4614},
+{"name": " Node : h Label: 2", "size": 4614},
+{"name": " Node : i Label: 7", "size": 4614},
+{"name": " Node : a Label: 1", "size": 4614},
+{"name": " Node : b Label: 1", "size": 4614}
+]
+},
+{
+"name":"CLUSTERS",
+"children":[
+{
+"name": "Cluster l",
+"children":[
+{"name": "e", "size": 2614},
+{"name": "g", "size": 2614},
+{"name": "j", "size": 2614}
+]
+},
+{
+"name": "Cluster k",
+"children":[
+{"name": "g", "size": 2614},
+{"name": "j", "size": 2614},
+{"name": "i", "size": 2614}
+]
+},
+{
+"name": "Cluster b",
+"children":[
+]
+},
+{
+"name": "Cluster c",
+"children":[
+]
+},
+{
+"name": "Cluster h",
+"children":[
+{"name": "c", "size": 2614}
+]
+},
+{
+"name": "Cluster e",
+"children":[
+{"name": "c", "size": 2614},
+{"name": "b", "size": 2614}
+]
+},
+{
+"name": "Cluster f",
+"children":[
+{"name": "a", "size": 2614}
+]
+},
+{
+"name": "Cluster d",
+"children":[
+{"name": "b", "size": 2614},
+{"name": "a", "size": 2614}
+]
+}
+]
+}
+]
+}
+]
+}

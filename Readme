@@ -1,0 +1,8 @@
+1) To compile and build just run
+	make
+2) To run 
+	./main file_name_without_extension cluster_size(optional)
+
+3) Program creates json file which can be used with javascript and html to visualize all clusters with something like this
+http://bl.ocks.org/mbostock/7607535
+

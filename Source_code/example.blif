@@ -1,0 +1,23 @@
+.model add2_temp_1 Hello
+.outputs k l
+.inputs a b c
+.names a f
+1 1
+.names a b d
+11 1
+.names b c e
+11 1
+.names c h
+1 1
+.names e g 
+1 1
+.names f d g i
+111 1
+.names g h j
+11 1
+.names i j k
+11 1
+.names j h l
+11 1
+.end
+ 
